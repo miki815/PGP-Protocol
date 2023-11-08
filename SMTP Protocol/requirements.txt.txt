@@ -1,0 +1,6 @@
+cryptography
+pyasn1
+pycryptodome
+rsa
+setuptools
+wheel
